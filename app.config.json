@@ -2,7 +2,7 @@
     "appName": "Profeworld-Learn-Beta-App",
     "appId": 1,
     "appApiURL": "https://mystudyappapi.profeworld.com",
-    "registrationHelpURL": "",
+    "registrationHelpURL": "https://profe1000.github.io/profeworld-learnbeta-pages/registration_help.html",
     "privacyPolicyURL": "https://profe1000.github.io/profeworld-learnbeta-pages/privacy.html",
     "termsAndConditionURL": "https://profe1000.github.io/profeworld-learnbeta-pages/terms.html",
     "googleLoginUrl": "https://learnbeta.profeworld.com/googlelogin/googleloginserverprofeworld.html",
