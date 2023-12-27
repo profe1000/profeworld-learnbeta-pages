@@ -9,5 +9,16 @@
     "googleLoginUrl": "https://learnbeta.profeworld.com/googlelogin/googleloginserverprofeworld.html",
     "contactNumber": "07030911579",
     "onlineClassNumber": "_2348155969878",
-    "hidePayment":false
+    "hidePayment": false,
+    "enableCompetiton": true,
+    "competitionConfig": {
+        "engnum": 60,
+        "num": 40,
+        "numbound": 60,
+        "bound1": 60,
+        "bound2": 100,
+        "bound3": 140,
+        "bound4": 180,
+        "time": 7200
+    }
 }
