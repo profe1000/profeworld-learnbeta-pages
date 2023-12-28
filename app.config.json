@@ -20,5 +20,15 @@
         "bound3": 140,
         "bound4": 180,
         "time": 7200
-    }
+    },
+    "competitionInstruction":"",
+    "subtypeOptions":[{
+        "planName": "Complete Access (Past Question + Textbook + Videos)",
+        "planValue": "full"
+      },
+      {
+        "planName": "Past Question (CBT Practice) Only",
+        "planValue": "pq"
+      }],
+    "enabledSubtypeOptions":true
 }
