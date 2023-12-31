@@ -21,9 +21,7 @@
         "bound4": 180,
         "time": 7200
     },
-    "competitionInstruction": "Test your brain with thousands of Jambite and stand a chance to win prize weekly. <br /> <br />\
-                           Every week the top students on the weekly leaders board win a prize and at the end of this Jamb season the All time leader on the leaders board win the grand prize.\
-                           <br /> <br /> <em> You must be an Activated user of Learn Beta App to redeemed any prize won </em>",
+    "competitionInstruction": "Test your brain with thousands of Jambite and stand a chance to win prize weekly. <br /> <br /> Every week the top students on the weekly leaders board win a prize and at the end of this Jamb season the All time leader on the leaders board win the grand prize.\ <br /> <br /> <em> You must be an Activated user of Learn Beta App to redeemed any prize won </em>",
     "subtypeOptions":[{
         "planName": "Complete Access (Past Question + Textbook + Videos)",
         "planValue": "full"
