@@ -10,7 +10,7 @@
     "contactNumber": "_2347030911579",
     "onlineClassNumber": "_2348155969878",
     "hidePayment": false,
-    "enableCompetiton": false,
+    "enableCompetiton": true,
     "competitionConfig": {
         "engnum": 60,
         "num": 40,
@@ -30,5 +30,5 @@
         "planName": "Past Question (CBT Practice) Only",
         "planValue": "pq"
       }],
-    "enabledSubtypeOptions":false
+    "enabledSubtypeOptions":true
 }
