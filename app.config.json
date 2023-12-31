@@ -10,7 +10,7 @@
     "contactNumber": "_2347030911579",
     "onlineClassNumber": "_2348155969878",
     "hidePayment": false,
-    "enableCompetiton": true,
+    "enableCompetiton": false,
     "competitionConfig": {
         "engnum": 60,
         "num": 40,
