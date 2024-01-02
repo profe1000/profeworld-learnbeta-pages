@@ -30,5 +30,6 @@
         "planName": "Past Question (CBT Practice) Only",
         "planValue": "pq"
       }],
-    "enabledSubtypeOptions":true
+    "enabledSubtypeOptions":true,
+    "showDisclaimerMsg":true
 }
