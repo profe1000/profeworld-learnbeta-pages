@@ -1,9 +1,9 @@
 {
-    "appName": "Profeworld-Learn-Beta-App",
-    "appId": 1,
+    "appName":  "Profeworld-Janb-CBT-LITE",
+    "appId": 2,
     "pinApiURL": "https://pins.profeworld.com/script/registerappnew.ashx",
     "appApiURL": "https://mystudyappapi.profeworld.com/",
-    "registrationHelpURL": "https://profe1000.github.io/profeworld-learnbeta-pages/registration_help.html",
+    "registrationHelpURL": "https://profe1000.github.io/profeworld-learnbeta-pages/registration_help_lite.html",
     "privacyPolicyURL": "https://profe1000.github.io/profeworld-learnbeta-pages/privacy.html",
     "termsAndConditionURL": "https://profe1000.github.io/profeworld-learnbeta-pages/terms.html",
     "googleLoginUrl": "https://learnbeta.profeworld.com/googlelogin/googleloginserverprofeworld.html",
