@@ -13,14 +13,14 @@
     "enableCompetiton": false,
     "enableFreeCompetiton": false,
     "competitionConfig": {
-        "engnum": 60,
-        "num": 40,
-        "numbound": 60,
-        "bound1": 60,
-        "bound2": 100,
-        "bound3": 140,
-        "bound4": 180,
-        "time": 7200
+        "engnum": 10,
+        "num": 5,
+        "numbound": 10,
+        "bound1": 10,
+        "bound2": 15,
+        "bound3": 20,
+        "bound4": 25,
+        "time": 600
     },
     "competitionInstruction": "Test your brain with thousands of Jambite and stand a chance to win prize weekly. <br /> <br /> Every week the top students on the weekly leaders board win a prize and at the end of this Jamb season the All time leader on the leaders board win the grand prize. <br /> <br /> <em> You must be an Activated user of Learn Beta App to redeemed any prize won </em>",
     "subtypeOptions":[{
