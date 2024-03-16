@@ -1,8 +1,8 @@
 {
     "appName": "Profeworld-Learn-Beta-App",
     "appId": 1,
-    "pinApiURL": "https://pinsprofeworld.mynexusroutes.com/script/registerappnew.ashx",
-    "appApiURL": "https://learnbetaapi.mynexusroutes.com/",
+    "pinApiURL": "https://pins.profeworld.com/script/registerappnew.ashx",
+    "appApiURL": "https://mystudyappapi.profeworld.com/",
     "registrationHelpURL": "https://profe1000.github.io/profeworld-learnbeta-pages/registration_help.html",
     "privacyPolicyURL": "https://profe1000.github.io/profeworld-learnbeta-pages/privacy.html",
     "termsAndConditionURL": "https://profe1000.github.io/profeworld-learnbeta-pages/terms.html",
